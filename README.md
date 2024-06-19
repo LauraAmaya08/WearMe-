@@ -7,5 +7,5 @@ WearMe es una tienda de ropa confiable y segura, donde encontrarás diferentes e
 
 <h2>Contacto</h2>
 Para cualquier pregunta o sugerencia, por favor contacta a:
-- **Nombre:** Laura Amaya
-- **Email:** laurasofiaaamayacasado@gmail.com
+- Nombre: Laura Amaya
+- Email: laurasofiaaamayacasado@gmail.com
