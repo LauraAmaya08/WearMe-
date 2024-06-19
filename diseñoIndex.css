@@ -157,33 +157,6 @@ nav{
 width: 50%;
 }
 
-.producto__cantidad{
-padding-top: 8px ;
-align-self: start;
-font-family: openSans;
-font-size: 0.8em;
-}
-
-.producto__precio{
-padding-top: 8px ;
-align-self: start;
-font-family: openSans;
-font-size: 0.7em;
-margin-bottom: 8px;
-}
-.producto__precio span{
-font-family: openSansNegrita ;
-}
-
-.eliminar{
-align-self: center;
-}
-
-.boton__eliminar{
-background-color: #fff;
-border: none;
-}
-
 .container_carritoV{
     width: 100%;
     margin: 0 25px;
@@ -194,4 +167,25 @@ border: none;
 
 .container_carritoV p{
     padding: 20px;
+}
+
+button{
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    font-weight: 600;
+}
+
+button a{
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+}
+
+.button:hover{ 
+    background-color: #876017;
+    color: white ;
 }
